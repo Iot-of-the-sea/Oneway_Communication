@@ -1,5 +1,9 @@
 # Oneway_Communication
 
+## System Architecture
+
+```Audio Input ──► Sampling ──► Preamble Detection ──► Demodulation ──► Output Message```
+
 ## File Overview
 
 | File                | Description |
